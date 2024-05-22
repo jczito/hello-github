@@ -1,4 +1,6 @@
 # hello-github
 Aprendendo github
 
-Legal
+# H1
+## H2
+### H3
